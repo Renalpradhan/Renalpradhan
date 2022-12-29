@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg)]
+![MasterHead](https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg)
 <h1 align="center">Hi 👋, I'm Renal Pradhan</h1>
 <h3 align="center">web Developer</h3>
 <img align="right" width="300" src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif" alt="coding">
